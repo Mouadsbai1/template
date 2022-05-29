@@ -1,3 +1,2 @@
 # template
-
-https://mouadsbai1.github.io/project-one/
+https://mouadsbai1.github.io/template/
